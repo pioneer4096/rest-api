@@ -1,0 +1,16 @@
+[v-cloak] {
+    display: none;
+}
+
+.todo-name {
+    color: #333;
+}
+
+.todo-name.done {
+    color: #888;
+    text-decoration: line-through;
+}
+
+.list-title {
+    padding-left: 1rem;
+}
